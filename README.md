@@ -1,4 +1,4 @@
-# Tailwind CSS example
+# Deadhead Website
 
 This is a site using [Tailwind CSS](https://tailwindcss.com) in a Next.js project.
 
